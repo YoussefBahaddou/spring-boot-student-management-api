@@ -214,10 +214,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+3. Commit your changes (`git commit -m 'Add some amazing fea<img width="2005" height="1022" alt="Screenshot 2025-10-24 012446" src="https://github.com/user-attachments/assets/7c1ca65c-0bed-4180-b5b2-8fb721c2085b" />
+ture'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+<img width="502" height="442" alt="Screenshot 2025-10-24 013306" src="https://github.com/user-attachments/assets/10125ee9-9416-44a0-9b28-08d8d51b8a44" />
+<img width="2080" height="992" alt="Screenshot 2025-10-24 012830" src="https://github.com/user-attachments/assets/7e8d7f03-cf7e-495f-b1cf-1eb1949f696d" />
+<img width="2082" height="895" alt="Screenshot 2025-10-24 012648" src="https://github.com/user-attachments/assets/c2df7a9b-f3f6-436b-a153-0c12afe9eaa6" />
+<img width="2045" height="1088" alt="Screenshot 2025-10-24 012559" src="https://github.com/user-attachments/assets/415d924e-c068-4a80-8265-ad33363a7fb7" />
+
+
+
